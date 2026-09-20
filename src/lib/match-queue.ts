@@ -1,19 +1,24 @@
 import {
   WORLD_CARDS,
   type WorldCard,
-  type WorldHelloState,
   type WorldIntent,
   type WorldProfile,
 } from "@/lib/world";
 
 export type FaceSeek = "tous" | "hommes" | "femmes" | "lgbt";
 
+export type FaceHellos = {
+  mutual: string[];
+  sent: string[];
+  pending: string[];
+};
+
 export type FaceQueueInput = {
   me: WorldProfile;
   seek: FaceSeek;
   blocked: string[];
   preferred?: WorldCard | null;
-  hellos?: Pick<WorldHelloState, "mutual" | "sent" | "pending">;
+  hellos?: FaceHellos;
 };
 
 const SEEK_GENDER: Record<Exclude<FaceSeek, "tous" | "lgbt">, WorldCard["gender"]> = {
