@@ -1,0 +1,557 @@
+ZEMBO — ARCHITECTURE COMPLÈTE DES TALK SHOWS
+
+Quand l’utilisateur appuie sur le bouton central +, il voit les quatre univers :
+
+Créer un Live • Play & Fun • Zembo Table • World Room
+
+Quand il sélectionne Créer un Live, Zembo ouvre un nouvel écran :
+
+CRÉER UN LIVE
+
+Choisis ton format
+
+📖 STORY TIME
+Raconte ton histoire.
+
+🎤 OPEN MIC
+Ouvre la conversation.
+
+🎭 SLAM THÉRAPIE
+Monte sur scène.
+
+🎓 STAND
+Partage ton expertise.
+
+Ce sont donc 4 types de Talk Show, mais ils ne doivent surtout pas être quatre copies du même écran Live.
+
+⸻
+
+1. 📖 STORY TIME
+
+« Je raconte, vous écoutez. »
+
+Story Time est le format le plus proche d’un Live TikTok classique.
+
+L’hôte raconte une histoire, une expérience, un témoignage, donne son opinion ou partage quelque chose avec sa communauté.
+
+Avant de commencer
+
+Lorsque l’utilisateur clique sur Story Time, il arrive sur :
+
+Configurer mon Story Time
+
+Titre*
+De quoi veux-tu parler ?
+
+Description
+Facultatif
+
+Couverture
+Facultative
+
+Visibilité
+🌍 Public | 🔒 Privé
+
+Accès
+Gratuit | 🎟️ Payant
+
+Si Payant : Prix en Tickets
+
+Commentaires
+ON / OFF
+
+🔴 LANCER MON STORY TIME
+
+⸻
+
+DISPOSITION DU LIVE STORY TIME
+
+Écran spectateur
+
+La caméra de l’hôte prend tout l’écran.
+
+En haut :
+
+STORY TIME • LIVE 🔴
+Deena
+👁 842
+
+« Le jour où j’ai décidé de tout recommencer »
+
+Sur le côté droit, verticalement et discrètement :
+
+❤️
+🎁
+↗️
+•••
+
+En bas :
+
+le chat transparent remonte progressivement.
+
+Sarah : Tellement vrai 😭
+Moussa : Continue !
+Fatou : J’ai vécu la même chose ❤️
+
+Puis :
+
+Ajouter un commentaire…
+
+Règle essentielle
+
+Personne ne peut monter dans un Story Time.
+
+Il n’y a donc :
+
+* aucune file d’attente ;
+* aucun bouton « Demander à monter » ;
+* aucune deuxième caméra.
+
+L’hôte reste seul.
+
+⸻
+
+2. 🎤 OPEN MIC
+
+« On échange. »
+
+Open Mic est le Live conversationnel de Zembo.
+
+Ici, contrairement à Story Time, les spectateurs peuvent demander la parole et monter avec l’hôte.
+
+⸻
+
+Configuration
+
+Configurer mon Open Mic
+
+Titre
+Sujet
+
+🌍 Public / 🔒 Privé
+
+Gratuit / 🎟️ Payant
+
+Commentaires ON/OFF
+
+Nombre maximum de personnes sur scène
+
+🔴 LANCER L’OPEN MIC
+
+⸻
+
+DISPOSITION OPEN MIC
+
+Au départ, l’hôte peut être seul en grand écran.
+
+Le spectateur possède un petit bouton :
+
+🎤 Demander la parole
+
+Quand quelqu’un clique dessus, l’hôte reçoit une notification :
+
+🎤 Sarah souhaite prendre la parole
+
+Accepter | Refuser
+
+⸻
+
+Quand l’hôte accepte
+
+Sarah passe d’abord dans une petite zone de préparation :
+
+Tu vas rejoindre l’Open Mic
+
+🎤 Micro ✓
+📹 Caméra ✓
+
+Je suis prête
+
+Puis elle rejoint le Live.
+
+L’écran peut alors passer à deux caméras côte à côte.
+
+Si d’autres personnes sont acceptées, la disposition devient une grille simple.
+
+Il ne faut pas créer une grille énorme.
+
+L’objectif reste une conversation fluide.
+
+⸻
+
+Contrôles de l’hôte
+
+L’hôte peut :
+
+Accepter une demande
+Refuser une demande
+Couper le micro
+Retirer quelqu’un de la scène
+Fermer les demandes
+
+L’hôte possède un bouton :
+
+🎤 Demandes (4)
+
+qui ouvre la file.
+
+Différence fondamentale
+
+Story Time : spectateurs → commentaires uniquement.
+
+Open Mic : spectateurs → peuvent devenir intervenants.
+
+⸻
+
+3. 🎭 SLAM THÉRAPIE
+
+« Une scène. Une voix. Un temps. »
+
+C’est probablement le format ayant la mécanique la plus particulière.
+
+Il existe deux modes :
+
+SOLO
+
+L’hôte fait ses propres slams.
+
+SCÈNE OUVERTE
+
+Le public peut demander à performer.
+
+⸻
+
+CONFIGURATION SLAM THÉRAPIE
+
+Configurer ma Slam Thérapie
+
+Titre
+
+Description
+
+Mode
+
+● Solo
+● Scène ouverte
+
+🌍 Public / 🔒 Privé
+
+Gratuit / 🎟️ Payant
+
+Commentaires ON/OFF
+
+🔴 OUVRIR LA SCÈNE
+
+⸻
+
+DISPOSITION DU LIVE
+
+Lorsqu’il n’y a pas d’invité :
+
+l’hôte est en grand écran.
+
+En haut :
+
+🎭 SLAM THÉRAPIE • LIVE
+
+Les mots qu’on n’a jamais osé dire
+
+Chat en bas.
+
+Réactions/cadeaux sur le côté.
+
+Et, en mode Scène ouverte :
+
+🎤 Demander à slamer
+
+⸻
+
+DEMANDE DE SLAM
+
+Le spectateur clique dessus.
+
+Un panneau glisse depuis le bas :
+
+MON SLAM
+
+Titre
+
+Les blessures invisibles
+
+Durée
+
+1 MIN | 3 MIN
+
+Choisir mon ambiance
+
+🎹 Piano
+🎸 Guitare
+🎧 Lo-fi
+❤️ Émotion
+🌙 Mélancolique
+🔥 Motivante
+🥁 Afro douce
+🔇 Sans musique
+
+Une fois l’ambiance choisie, Zembo propose ses propres instrumentales.
+
+L’utilisateur peut les écouter.
+
+Puis :
+
+Envoyer ma demande
+
+⸻
+
+FILE D’ATTENTE
+
+L’hôte reçoit :
+
+DEMANDES DE SLAM
+
+Moussa
+Les blessures invisibles
+
+⏱ 3 min
+🎹 Piano
+
+Accepter | Refuser
+
+Une fois accepté :
+
+À SUIVRE
+
+1. Moussa — 3 min
+2. Sarah — 1 min
+3. Kevin — 3 min
+
+⸻
+
+PRÉPARATION
+
+Lorsque Moussa approche :
+
+🎤 Tu passes bientôt
+
+Environ 1 minute.
+
+Puis :
+
+TU ES LE PROCHAIN
+
+00:30
+
+🎤 Micro prêt ✓
+📹 Caméra prête ✓
+🎹 Piano sélectionné ✓
+
+JE SUIS PRÊT
+
+La caméra ne doit jamais être activée publiquement sans cette confirmation.
+
+⸻
+
+PASSAGE SUR SCÈNE
+
+Quand vient son tour :
+
+PROCHAIN SUR SCÈNE
+
+MOUSSA
+
+Les blessures invisibles
+
+3 — 2 — 1
+
+Et la disposition change.
+
+MOUSSA
+
+devient la grande caméra principale.
+
+DEENA — HÔTE
+
+devient une petite vignette dans un coin.
+
+C’est extrêmement important :
+
+une seule personne possède réellement la scène.
+
+⸻
+
+Chronomètre
+
+La musique commence exactement avec le chrono :
+
+🎤 SUR SCÈNE
+
+Moussa
+Les blessures invisibles
+
+🎹 Renaissance
+
+02:59
+
+Puis :
+
+02:58… 02:57…
+
+À 10 secondes :
+
+00:10
+
+À zéro :
+
+00:00
+
+La musique effectue un léger fade-out.
+
+👏 MERCI MOUSSA
+
+Ta performance est terminée.
+
+Moussa retourne automatiquement parmi les spectateurs.
+
+Deena reprend le grand écran.
+
+Puis :
+
+PROCHAINE SUR SCÈNE
+
+Sarah — 1 min
+
+Et le cycle recommence.
+
+⸻
+
+4. 🎓 STAND
+
+« Je transmets, vous questionnez. »
+
+Stand est complètement différent d’Open Mic.
+
+C’est destiné aux :
+
+coachs • créateurs • experts • influenceurs • entrepreneurs • enseignants • intervenants
+
+Exemples :
+
+« Comment créer son entreprise au Canada »
+
+« Les red flags dans une relation »
+
+« Comment reprendre confiance en soi »
+
+« Posez-moi vos questions sur TikTok »
+
+⸻
+
+CONFIGURATION DU STAND
+
+Configurer mon Stand
+
+Titre
+
+Sujet
+
+Description
+
+🌍 Public / 🔒 Privé
+
+Gratuit / 🎟️ Payant
+
+Questions ON/OFF
+
+Commentaires ON/OFF
+
+🔴 LANCER MON STAND
+
+⸻
+
+DISPOSITION DU LIVE STAND
+
+L’intervenant reste seul en plein écran, exactement comme Story Time.
+
+Mais il existe une fonctionnalité essentielle :
+
+❓ Poser une question
+
+Le spectateur clique dessus.
+
+Une petite fenêtre apparaît :
+
+Pose ta question à Deena
+
+⸻
+
+Envoyer
+
+La question n’envahit pas directement le Live.
+
+Elle entre dans une file privée réservée à l’hôte.
+
+⸻
+
+CÔTÉ HÔTE
+
+Deena voit :
+
+❓ Questions (18)
+
+Elle clique.
+
+Un panneau s’ouvre :
+
+EN ATTENTE | RÉPONDUES | IGNORÉES
+
+Par exemple :
+
+Sarah
+
+Comment savoir si une personne est vraiment narcissique ?
+
+Répondre
+
+Deena appuie sur Répondre.
+
+Le panneau se ferme.
+
+⸻
+
+QUESTION AFFICHÉE DANS LE LIVE
+
+Une petite carte apparaît pour tout le monde :
+
+❓ SARAH DEMANDE
+
+« Comment savoir si une personne est vraiment narcissique ? »
+
+Sarah reçoit :
+
+🎤 Deena répond à ta question !
+
+Deena répond oralement.
+
+La carte reste visible.
+
+Lorsqu’elle termine :
+
+✓ Question répondue
+
+La carte disparaît.
+
+Elle sélectionne ensuite une autre question.
+
+Règle essentielle
+
+La personne qui pose la question ne monte jamais.
+
+Pas de caméra.
+
+Pas de micro.
+
+C’est précisément ce qui distingue Stand d’Open Mic.
+
+⸻
+
+LES 4 DISPOSITIONS EN UN COUP D’ŒIL
