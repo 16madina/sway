@@ -1,10 +1,15 @@
-# Face queue (pickFaceOpponent)
+# Face queue + restore world.tsx
 
-`src/lib/match-queue.ts` is on main.
+`src/components/world.tsx` on main is currently truncated by a bad push. Restore the last good copy then apply the hook.
 
-In `src/components/world.tsx`:
+```bash
+git fetch origin
+git checkout 754240c2683118f2877c8a35eeba3947f8980124 -- src/components/world.tsx
+```
 
-1. Add import:
+Then in that file:
+
+1. Under the FaceDuel import, add:
 ```
 import { pickFaceOpponent } from "@/lib/match-queue";
 ```
@@ -23,5 +28,6 @@ onLaunch={(mode) => {
 }}
 ```
 
-FaceDuel already receives `preferred={over.card}`.
-After a Hello mutuel with Sofia, search should connect to Sofia first.
+`src/lib/match-queue.ts` is already on main.
+FaceDuel already uses `preferred={over.card}`.
+After Hello mutuel (Sofia), a Face search should open on Sofia.
