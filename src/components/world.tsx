@@ -1,1 +1,1 @@
-SEE_FILE_/tmp/world.tsx
+export { WorldRoom } from "./world-room";
